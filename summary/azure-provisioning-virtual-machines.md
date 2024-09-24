@@ -1,4 +1,4 @@
-## Criando máquinas Virtuais:
+## Criar máquinas Virtuais:
 
 Para criar uma máquina virtual:
 
