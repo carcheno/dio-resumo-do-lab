@@ -1,5 +1,7 @@
 ## Criar máquinas Virtuais:
 
+O SLA (Acordo de Nível de Serviço) define o tempo máximo de indisponibilidade de um serviço. Ao contratar um serviço, o cliente recebe créditos caso o SLA seja violado, na Azure. A disponibilidade e o custo estão diretamente relacionados: maior disponibilidade implica em custos mais elevados. É essencial avaliar as necessidades específicas para cada projeto para escolher o SLA mais adequado.
+
 Para criar uma máquina virtual:
 
 1. Acesse _Categories_ -> _Compute_ -> _Virtual Machines_.
