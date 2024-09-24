@@ -18,19 +18,12 @@ A Computação em nuvem refere-se à disponibilização de serviços de computa�
 ##### Despesas operacionais (OpEx)
 - Gastos com produtos e serviços conforme necessário, com pagamento baseado no uso.
 - A cobrança é feita de forma imediata. Por exemplo, no final do mês, será cobrado o tempo de utilização de uma Máquina Virtual.
-## Localizar serviços por categoria
----
-1. Em primeiro lugar, aceda ao site da [Microsoft Azure](https://azure.microsoft.com).
-![](./img/azure_essentials/azure_01.png)  
-2. Para localizar os serviços por categoria, caso o menu lateral não apareça, clique no ícone de menu _hamburger_. ![](./img/icons/menu-2.svg)  
-   
-![](./img/azure_essentials/azure_02.png)  
-3. Clique em **All Services**
 
-![](./img/azure_essentials/azure_03.png)  
-4. E voilà... Todos os serviços e categorias serão listados.
+## Resumos
 
-![](./img/azure_essentials/azure_04.png)  
+[Localizar serviços por categoria](./summary/azure-locating-services-category.md)
+[Criando máquinas Virtuais](./summary/azure-provisioning-virtual-machines.md)
+
 ## Referências
 ---
 [Digital Innovation One](https://www.dio.me/)  
