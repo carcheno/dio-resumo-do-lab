@@ -21,8 +21,8 @@ A Computação em nuvem refere-se à disponibilização de serviços de computa�
 
 ## Resumos
 
-[Localizar serviços por categoria](./summary/azure-locating-services-category.md)
-[Criando máquinas Virtuais](./summary/azure-provisioning-virtual-machines.md)
+[Localizar serviços por categoria](./summary/azure-locating-services-category.md)  
+[Criar máquinas Virtuais](./summary/azure-provisioning-virtual-machines.md)  
 
 ## Referências
 ---
